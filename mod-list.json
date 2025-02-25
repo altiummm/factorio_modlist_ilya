@@ -1,0 +1,1146 @@
+
+{
+  "mods": 
+  [
+    
+    {
+      "name": "base",
+      "enabled": true
+    },
+    
+    {
+      "name": "elevated-rails",
+      "enabled": true
+    },
+    
+    {
+      "name": "quality",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-age",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-containers",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-industry",
+      "enabled": false
+    },
+    
+    {
+      "name": "aai-signal-transmission",
+      "enabled": true
+    },
+    
+    {
+      "name": "AAI_Language_Pack",
+      "enabled": true
+    },
+    
+    {
+      "name": "advanced-centrifuge",
+      "enabled": true
+    },
+    
+    {
+      "name": "Age-of-Production",
+      "enabled": true
+    },
+    
+    {
+      "name": "Aircraft-space-age",
+      "enabled": true
+    },
+    
+    {
+      "name": "AircraftDrones",
+      "enabled": false
+    },
+    
+    {
+      "name": "alien-biomes-graphics",
+      "enabled": true
+    },
+    
+    {
+      "name": "AncientDrill",
+      "enabled": true
+    },
+    
+    {
+      "name": "aquilo-seabloom-algaculture",
+      "enabled": true
+    },
+    
+    {
+      "name": "ArmouredBiters",
+      "enabled": true
+    },
+    
+    {
+      "name": "Asteroid_Mining",
+      "enabled": true
+    },
+    
+    {
+      "name": "astroponics",
+      "enabled": true
+    },
+    
+    {
+      "name": "atan-nuclear-science",
+      "enabled": true
+    },
+    
+    {
+      "name": "autobuild",
+      "enabled": true
+    },
+    
+    {
+      "name": "automatic-underground-pipe-connectors",
+      "enabled": true
+    },
+    
+    {
+      "name": "ballistic_missile",
+      "enabled": true
+    },
+    
+    {
+      "name": "batch-plant",
+      "enabled": true
+    },
+    
+    {
+      "name": "BeltUpgrader",
+      "enabled": true
+    },
+    
+    {
+      "name": "big-heat-furnace",
+      "enabled": true
+    },
+    
+    {
+      "name": "big_power_poles_patched",
+      "enabled": true
+    },
+    
+    {
+      "name": "bioprocessing-tab",
+      "enabled": true
+    },
+    
+    {
+      "name": "biouranium",
+      "enabled": true
+    },
+    
+    {
+      "name": "BlackMarket2",
+      "enabled": false
+    },
+    
+    {
+      "name": "boompuff-agriculture",
+      "enabled": true
+    },
+    
+    {
+      "name": "BottleneckLite",
+      "enabled": true
+    },
+    
+    {
+      "name": "BuggisNuclearBots",
+      "enabled": true
+    },
+    
+    {
+      "name": "bullet-trails",
+      "enabled": true
+    },
+    
+    {
+      "name": "bz-dsr-bridge",
+      "enabled": true
+    },
+    
+    {
+      "name": "bzcarbon",
+      "enabled": true
+    },
+    
+    {
+      "name": "bzlead",
+      "enabled": true
+    },
+    
+    {
+      "name": "bzsilicon",
+      "enabled": true
+    },
+    
+    {
+      "name": "bztin",
+      "enabled": true
+    },
+    
+    {
+      "name": "bztitanium",
+      "enabled": true
+    },
+    
+    {
+      "name": "bzvery",
+      "enabled": false
+    },
+    
+    {
+      "name": "bzzirconium",
+      "enabled": true
+    },
+    
+    {
+      "name": "c5-galaxy",
+      "enabled": false
+    },
+    
+    {
+      "name": "cargo-ships",
+      "enabled": true
+    },
+    
+    {
+      "name": "cargo-ships-graphics",
+      "enabled": true
+    },
+    
+    {
+      "name": "castra",
+      "enabled": true
+    },
+    
+    {
+      "name": "cerys-lunaponics",
+      "enabled": true
+    },
+    
+    {
+      "name": "Cerys-Moon-of-Fulgora",
+      "enabled": true
+    },
+    
+    {
+      "name": "cf-lib",
+      "enabled": true
+    },
+    
+    {
+      "name": "ChangesForKrastorio",
+      "enabled": true
+    },
+    
+    {
+      "name": "CircuitConditionScreen",
+      "enabled": true
+    },
+    
+    {
+      "name": "Cold_biters",
+      "enabled": true
+    },
+    
+    {
+      "name": "common-prototypes",
+      "enabled": true
+    },
+    
+    {
+      "name": "common-prototypes-graphics",
+      "enabled": true
+    },
+    
+    {
+      "name": "Constructron-Continued",
+      "enabled": true
+    },
+    
+    {
+      "name": "corrundum",
+      "enabled": true
+    },
+    
+    {
+      "name": "Cosmic-Social-Distancing",
+      "enabled": true
+    },
+    
+    {
+      "name": "cubium",
+      "enabled": true
+    },
+    
+    {
+      "name": "dea-dia-system",
+      "enabled": true
+    },
+    
+    {
+      "name": "deadlock-beltboxes-loaders",
+      "enabled": true
+    },
+    
+    {
+      "name": "dredgeworks",
+      "enabled": true
+    },
+    
+    {
+      "name": "dredgeworks-graphics",
+      "enabled": true
+    },
+    
+    {
+      "name": "drone-battery-upgrade",
+      "enabled": true
+    },
+    
+    {
+      "name": "dw-frozen-reaches",
+      "enabled": true
+    },
+    
+    {
+      "name": "ElectricTrains",
+      "enabled": false
+    },
+    
+    {
+      "name": "Electric_flying_enemies",
+      "enabled": true
+    },
+    
+    {
+      "name": "Electronic_Locomotives",
+      "enabled": false
+    },
+    
+    {
+      "name": "enemyracemanager",
+      "enabled": true
+    },
+    
+    {
+      "name": "enemyracemanager_assets",
+      "enabled": true
+    },
+    
+    {
+      "name": "equipment-gantry",
+      "enabled": true
+    },
+    
+    {
+      "name": "erm_libs",
+      "enabled": true
+    },
+    
+    {
+      "name": "erm_terran",
+      "enabled": true
+    },
+    
+    {
+      "name": "erm_terran_hd_assets",
+      "enabled": true
+    },
+    
+    {
+      "name": "erm_toss",
+      "enabled": true
+    },
+    
+    {
+      "name": "erm_toss_hd_assets",
+      "enabled": true
+    },
+    
+    {
+      "name": "erm_zerg",
+      "enabled": true
+    },
+    
+    {
+      "name": "erm_zerg_hd_assets",
+      "enabled": true
+    },
+    
+    {
+      "name": "exotic-space-industries",
+      "enabled": false
+    },
+    
+    {
+      "name": "exotic-space-industries-graphics-1",
+      "enabled": true
+    },
+    
+    {
+      "name": "exotic-space-industries-graphics-2",
+      "enabled": true
+    },
+    
+    {
+      "name": "Factorio-Tiberium",
+      "enabled": true
+    },
+    
+    {
+      "name": "factorissimo-2-notnotmelon",
+      "enabled": true
+    },
+    
+    {
+      "name": "FactorySearch",
+      "enabled": true
+    },
+    
+    {
+      "name": "far-reach",
+      "enabled": true
+    },
+    
+    {
+      "name": "fdsl",
+      "enabled": true
+    },
+    
+    {
+      "name": "finely-crafted-graphics",
+      "enabled": true
+    },
+    
+    {
+      "name": "Flare Stack",
+      "enabled": true
+    },
+    
+    {
+      "name": "flib",
+      "enabled": true
+    },
+    
+    {
+      "name": "Flow Control",
+      "enabled": true
+    },
+    
+    {
+      "name": "FluidMustFlow",
+      "enabled": true
+    },
+    
+    {
+      "name": "fluroflux",
+      "enabled": true
+    },
+    
+    {
+      "name": "freezer",
+      "enabled": true
+    },
+    
+    {
+      "name": "Fridge",
+      "enabled": true
+    },
+    
+    {
+      "name": "fulgora-coralmium-agriculture",
+      "enabled": true
+    },
+    
+    {
+      "name": "grappling-gun",
+      "enabled": true
+    },
+    
+    {
+      "name": "HelicopterRevival",
+      "enabled": true
+    },
+    
+    {
+      "name": "hurricane-graphics",
+      "enabled": true
+    },
+    
+    {
+      "name": "informatron",
+      "enabled": true
+    },
+    
+    {
+      "name": "James-Oil-Processing",
+      "enabled": true
+    },
+    
+    {
+      "name": "James-Train-Mod",
+      "enabled": true
+    },
+    
+    {
+      "name": "janus",
+      "enabled": true
+    },
+    
+    {
+      "name": "jetpack",
+      "enabled": true
+    },
+    
+    {
+      "name": "K1_Advanced_fluid_continued",
+      "enabled": true
+    },
+    
+    {
+      "name": "K1_Advanced_storage_continued",
+      "enabled": true
+    },
+    
+    {
+      "name": "Krastorio2Assets",
+      "enabled": true
+    },
+    
+    {
+      "name": "Krastorio2Roboports",
+      "enabled": true
+    },
+    
+    {
+      "name": "KrastorioAirPurifier",
+      "enabled": true
+    },
+    
+    {
+      "name": "kry-all-planet-mods",
+      "enabled": true
+    },
+    
+    {
+      "name": "kry-inserters",
+      "enabled": true
+    },
+    
+    {
+      "name": "kry-space-platform-chests",
+      "enabled": true
+    },
+    
+    {
+      "name": "kry_stdlib",
+      "enabled": true
+    },
+    
+    {
+      "name": "KS_Power",
+      "enabled": true
+    },
+    
+    {
+      "name": "KS_Power_Rebalancing",
+      "enabled": true
+    },
+    
+    {
+      "name": "Kux-CoreLib",
+      "enabled": true
+    },
+    
+    {
+      "name": "Kux-FNEI",
+      "enabled": true
+    },
+    
+    {
+      "name": "Kux-OrbitalIonCannon",
+      "enabled": true
+    },
+    
+    {
+      "name": "Kux-PowerPoles",
+      "enabled": true
+    },
+    
+    {
+      "name": "landing-pad-research",
+      "enabled": true
+    },
+    
+    {
+      "name": "lex-aircraft",
+      "enabled": true
+    },
+    
+    {
+      "name": "lignumis",
+      "enabled": true
+    },
+    
+    {
+      "name": "locale_ru",
+      "enabled": true
+    },
+    
+    {
+      "name": "LSlib_James_Fork",
+      "enabled": true
+    },
+    
+    {
+      "name": "M-Dirigible",
+      "enabled": true
+    },
+    
+    {
+      "name": "Mammoth-MK3",
+      "enabled": true
+    },
+    
+    {
+      "name": "maraxsis",
+      "enabled": true
+    },
+    
+    {
+      "name": "MaxRateCalculator",
+      "enabled": true
+    },
+    
+    {
+      "name": "MegaBlackMarket",
+      "enabled": false
+    },
+    
+    {
+      "name": "metal-and-stars",
+      "enabled": true
+    },
+    
+    {
+      "name": "metal-and-stars-graphics",
+      "enabled": true
+    },
+    
+    {
+      "name": "metal-and-stars-graphics-2",
+      "enabled": true
+    },
+    
+    {
+      "name": "mf-buildings",
+      "enabled": true
+    },
+    
+    {
+      "name": "mf-buildings-graphics-1",
+      "enabled": true
+    },
+    
+    {
+      "name": "mf-core",
+      "enabled": true
+    },
+    
+    {
+      "name": "mf-logistics",
+      "enabled": true
+    },
+    
+    {
+      "name": "mf-logistics-graphics-1",
+      "enabled": true
+    },
+    
+    {
+      "name": "micro-machines",
+      "enabled": true
+    },
+    
+    {
+      "name": "mini-machines",
+      "enabled": true
+    },
+    
+    {
+      "name": "miniloader-redux",
+      "enabled": true
+    },
+    
+    {
+      "name": "mining-patch-planner",
+      "enabled": true
+    },
+    
+    {
+      "name": "Mini_Trains",
+      "enabled": true
+    },
+    
+    {
+      "name": "missile-acceleration",
+      "enabled": true
+    },
+    
+    {
+      "name": "ModuleInserterEx",
+      "enabled": true
+    },
+    
+    {
+      "name": "modules-t4",
+      "enabled": true
+    },
+    
+    {
+      "name": "More_Ammo",
+      "enabled": true
+    },
+    
+    {
+      "name": "More_Repair_Packs",
+      "enabled": true
+    },
+    
+    {
+      "name": "Moshine",
+      "enabled": true
+    },
+    
+    {
+      "name": "Moshine-assets",
+      "enabled": true
+    },
+    
+    {
+      "name": "naufulglebunusilo",
+      "enabled": true
+    },
+    
+    {
+      "name": "oceandump",
+      "enabled": true
+    },
+    
+    {
+      "name": "OmegaDrill",
+      "enabled": true
+    },
+    
+    {
+      "name": "orbital-transfer",
+      "enabled": true
+    },
+    
+    {
+      "name": "PersonalTeleporter",
+      "enabled": true
+    },
+    
+    {
+      "name": "planet-arrakis",
+      "enabled": true
+    },
+    
+    {
+      "name": "planet-muluna",
+      "enabled": true
+    },
+    
+    {
+      "name": "PlanetsLib",
+      "enabled": true
+    },
+    
+    {
+      "name": "player-auto-build-2",
+      "enabled": true
+    },
+    
+    {
+      "name": "PlutoniumEnergy",
+      "enabled": true
+    },
+    
+    {
+      "name": "pollution-as-surface-property",
+      "enabled": true
+    },
+    
+    {
+      "name": "Power Armor MK3",
+      "enabled": true
+    },
+    
+    {
+      "name": "PowerSats",
+      "enabled": true
+    },
+    
+    {
+      "name": "pump",
+      "enabled": true
+    },
+    
+    {
+      "name": "qol_research",
+      "enabled": true
+    },
+    
+    {
+      "name": "quality_glassware",
+      "enabled": true
+    },
+    
+    {
+      "name": "quantum-fabricator",
+      "enabled": true
+    },
+    
+    {
+      "name": "quirkycat_uranium-change",
+      "enabled": true
+    },
+    
+    {
+      "name": "Redrawn-Space-Connections",
+      "enabled": true
+    },
+    
+    {
+      "name": "Repair_Turret",
+      "enabled": true
+    },
+    
+    {
+      "name": "Robocharger-Updated",
+      "enabled": true
+    },
+    
+    {
+      "name": "robotarmy",
+      "enabled": true
+    },
+    
+    {
+      "name": "rus-perevod",
+      "enabled": true
+    },
+    
+    {
+      "name": "SA-AtomicTank",
+      "enabled": true
+    },
+    
+    {
+      "name": "scattergun_turret",
+      "enabled": true
+    },
+    
+    {
+      "name": "SchallAlienLoot",
+      "enabled": true
+    },
+    
+    {
+      "name": "SchallAlienTech",
+      "enabled": true
+    },
+    
+    {
+      "name": "SchallAmmoTurrets",
+      "enabled": true
+    },
+    
+    {
+      "name": "SchallArtillery",
+      "enabled": true
+    },
+    
+    {
+      "name": "SchallInserters",
+      "enabled": true
+    },
+    
+    {
+      "name": "SchallLanguagePack",
+      "enabled": true
+    },
+    
+    {
+      "name": "SchallMissileCommand",
+      "enabled": true
+    },
+    
+    {
+      "name": "SchallRadioactiveWaste",
+      "enabled": true
+    },
+    
+    {
+      "name": "SchallTankPlatoon",
+      "enabled": true
+    },
+    
+    {
+      "name": "se-space-trains",
+      "enabled": true
+    },
+    
+    {
+      "name": "secretas",
+      "enabled": true
+    },
+    
+    {
+      "name": "shield-generators",
+      "enabled": true
+    },
+    
+    {
+      "name": "shield-projector",
+      "enabled": true
+    },
+    
+    {
+      "name": "Side Inserters",
+      "enabled": true
+    },
+    
+    {
+      "name": "silent-belts-5",
+      "enabled": true
+    },
+    
+    {
+      "name": "simultaneous-research",
+      "enabled": true
+    },
+    
+    {
+      "name": "slp-dyson-sphere-reworked",
+      "enabled": true
+    },
+    
+    {
+      "name": "snouz-big-accumulator",
+      "enabled": true
+    },
+    
+    {
+      "name": "snouz-big-solar-panel",
+      "enabled": true
+    },
+    
+    {
+      "name": "solar-productivity",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration",
+      "enabled": false
+    },
+    
+    {
+      "name": "space-spidertron",
+      "enabled": true
+    },
+    
+    {
+      "name": "spiderbots",
+      "enabled": true
+    },
+    
+    {
+      "name": "spidertron-dock",
+      "enabled": false
+    },
+    
+    {
+      "name": "SpidertronEnhancements",
+      "enabled": true
+    },
+    
+    {
+      "name": "SpidertronPatrols",
+      "enabled": true
+    },
+    
+    {
+      "name": "squeak-through-2",
+      "enabled": true
+    },
+    
+    {
+      "name": "stirling-generator",
+      "enabled": true
+    },
+    
+    {
+      "name": "storage-tanks-modpack",
+      "enabled": true
+    },
+    
+    {
+      "name": "stuck-train-detector",
+      "enabled": true
+    },
+    
+    {
+      "name": "SuperTanks-1",
+      "enabled": true
+    },
+    
+    {
+      "name": "teleporting_machine",
+      "enabled": true
+    },
+    
+    {
+      "name": "Telogistics",
+      "enabled": true
+    },
+    
+    {
+      "name": "tenebris-prime",
+      "enabled": true
+    },
+    
+    {
+      "name": "terrapalus",
+      "enabled": true
+    },
+    
+    {
+      "name": "textplates",
+      "enabled": true
+    },
+    
+    {
+      "name": "the-eclipse-rift-system",
+      "enabled": true
+    },
+    
+    {
+      "name": "tiered-gas-generator",
+      "enabled": true
+    },
+    
+    {
+      "name": "Tiered-Solar-System",
+      "enabled": true
+    },
+    
+    {
+      "name": "Todo-List",
+      "enabled": true
+    },
+    
+    {
+      "name": "train-loader",
+      "enabled": true
+    },
+    
+    {
+      "name": "turbines-plusplus-reloaded",
+      "enabled": true
+    },
+    
+    {
+      "name": "underground-heat-pipe",
+      "enabled": true
+    },
+    
+    {
+      "name": "Unit_Controll",
+      "enabled": true
+    },
+    
+    {
+      "name": "valves",
+      "enabled": true
+    },
+    
+    {
+      "name": "vulcanus-sulfuric-bacteria",
+      "enabled": true
+    },
+    
+    {
+      "name": "Warptorio2_Language_Pack",
+      "enabled": true
+    },
+    
+    {
+      "name": "WaterExtractor",
+      "enabled": true
+    },
+    
+    {
+      "name": "WideChests",
+      "enabled": true
+    },
+    
+    {
+      "name": "WipMod_TA-miners",
+      "enabled": true
+    },
+    
+    {
+      "name": "wood-universe-assets",
+      "enabled": true
+    },
+    
+    {
+      "name": "Wood-Walls",
+      "enabled": true
+    },
+    
+    {
+      "name": "Wood_Gasification_updated",
+      "enabled": true
+    },
+    
+    {
+      "name": "yi_engines",
+      "enabled": true
+    },
+    
+    {
+      "name": "Yi_Tech_Tree_ExtraVanilla",
+      "enabled": true
+    },
+    
+    {
+      "name": "Yuoki",
+      "enabled": true
+    },
+    
+    {
+      "name": "zerm_postprocess",
+      "enabled": true
+    }
+  ]
+}
